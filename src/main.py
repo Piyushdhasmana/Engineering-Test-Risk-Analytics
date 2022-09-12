@@ -99,6 +99,6 @@ def data_transverse():
 if __name__ == "__main__":
     try :
         data_transverse()
-        print ("Your programme has been executed")
+        print ("Your programme has been executed successfully")
     except:
         print("Something went wrong")
