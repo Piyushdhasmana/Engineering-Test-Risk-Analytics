@@ -8,7 +8,7 @@ try :
     import Output
     OUTPUT_DIR_PATH = "Output/combined.csv"
 except :
-    "No as such module present: Try to run the main file first"
+    "No Output module present: Try to run the main.py first"
     
 
 
